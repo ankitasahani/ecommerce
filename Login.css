@@ -1,0 +1,15 @@
+body{
+    background-image: url("http://www.downtownmemphis.com/sites/514/uploaded/images/miss_cordelias_produce_1-thumb1000x1000.jpg");
+}
+.jumbotron{
+    margin: 2in;
+    background: none;
+}
+.form-group{
+    color: white;
+    font-size: 1.5rem;
+}
+.form-check-label{
+    color: white;
+    font-size: 1rem;
+}
